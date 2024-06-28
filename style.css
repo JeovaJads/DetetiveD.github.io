@@ -1,0 +1,23 @@
+body{
+    background-color: #006400;
+}
+.navbar{
+    background-color: #D2691E;
+}
+.carousel-item{
+    height: 93vh;
+}
+.m{
+    height: 260px; 
+}
+.cole{
+    height:60px;
+    width: 60px;
+}
+.cor{
+    height: 30vh;
+    background-color: #D2691E;
+}
+.fundo{
+    background-color: #D2691E;
+}
